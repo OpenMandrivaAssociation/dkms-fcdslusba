@@ -1,0 +1,7 @@
+dkms-fcdslusba-dont-redefine-uintptr_t.patch
+dkms-fcdslusba-remove-DECLARE_MUTEX_LOCKED.patch
+dkms-fcdslusba-remove-usb_driver_owner.patch
+dkms-fcdslusba-update-INIT_WORK-changes.patch
+dkms-fcdslusba-update-usb_complete_t-functions.patch
+dkms-fcdslusba-use-autoconf-header.patch
+fcdslusba-suse93-3.11-05.tar.bz2
