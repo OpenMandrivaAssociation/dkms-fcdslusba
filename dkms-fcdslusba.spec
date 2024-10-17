@@ -16,7 +16,7 @@ Source6: dkms-fcdslusba-update-usb_complete_t-functions.patch
 Patch0: fritz-xchg.patch
 License: Commercial
 Group: System/Kernel and hardware
-URL: http://www.avm.de/
+URL: https://www.avm.de/
 Requires(post): dkms
 Requires(preun): dkms
 BuildRoot: %{_tmppath}/%{name}-buildroot
