@@ -5,7 +5,7 @@
 Summary: dkms package for %{module} driver
 Name: dkms-%{module}
 Version: %{version}
-Release: %mkrel 6
+Release: 7
 Source0: ftp://ftp.avm.de/cardware/fritzcrd.dsl_usb_analog/linux/suse.93/fcdslusba-suse93-3.11-05.tar.bz2
 Source1: dkms-fcdslusba-use-autoconf-header.patch
 Source2: dkms-fcdslusba-dont-redefine-uintptr_t.patch
